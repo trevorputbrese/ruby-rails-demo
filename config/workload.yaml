@@ -8,6 +8,6 @@ metadata:
 spec:
   source:
     git:
-      url: https://github.com/trevorputbrese/rails-realworld-example-app.git
+      url: https://github.com/trevorputbrese/ruby-rails-demo
       ref:
         branch: main
